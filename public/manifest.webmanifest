@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Skewer Shift",
+  "short_name": "Skewer Shift",
+  "description": "A night market of sizzling skewer puzzles.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#151714",
+  "theme_color": "#151714",
+  "icons": [
+    { "src": "/icons/skewer-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/skewer-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

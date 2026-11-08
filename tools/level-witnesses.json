@@ -1,0 +1,2519 @@
+{
+  "001": {
+    "contentVersion": 1,
+    "expanded": 4,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "002": {
+    "contentVersion": 1,
+    "expanded": 7,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      }
+    ]
+  },
+  "003": {
+    "contentVersion": 1,
+    "expanded": 3,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "004": {
+    "contentVersion": 1,
+    "expanded": 5,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "005": {
+    "contentVersion": 1,
+    "expanded": 4,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      }
+    ]
+  },
+  "006": {
+    "contentVersion": 1,
+    "expanded": 8,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "007": {
+    "contentVersion": 1,
+    "expanded": 7,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      }
+    ]
+  },
+  "008": {
+    "contentVersion": 1,
+    "expanded": 7,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 1
+        }
+      }
+    ]
+  },
+  "009": {
+    "contentVersion": 1,
+    "expanded": 11,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      }
+    ]
+  },
+  "010": {
+    "contentVersion": 1,
+    "expanded": 21,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t9",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t9",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t9",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t6",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "011": {
+    "contentVersion": 1,
+    "expanded": 18,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      }
+    ]
+  },
+  "012": {
+    "contentVersion": 1,
+    "expanded": 23,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t7",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t7",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t7",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t6",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t6",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t6",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "master-chef": {
+    "contentVersion": 1,
+    "expanded": 17,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "conveyor-chaos": {
+    "contentVersion": 1,
+    "expanded": 8,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t3",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "stacked-orders": {
+    "contentVersion": 1,
+    "expanded": 8,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "match-drop": {
+    "contentVersion": 1,
+    "expanded": 16,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 2
+        }
+      }
+    ]
+  },
+  "color-match": {
+    "contentVersion": 1,
+    "expanded": 9,
+    "commands": [
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t4",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t5",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t4",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t5",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 1
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 0
+        },
+        "to": {
+          "trayId": "t6",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t1",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t2",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 0
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 1
+        },
+        "to": {
+          "trayId": "t2",
+          "slot": 2
+        }
+      },
+      {
+        "type": "tick",
+        "ms": 800
+      },
+      {
+        "type": "move",
+        "from": {
+          "trayId": "t3",
+          "slot": 2
+        },
+        "to": {
+          "trayId": "t1",
+          "slot": 1
+        }
+      }
+    ]
+  }
+}

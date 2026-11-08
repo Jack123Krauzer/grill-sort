@@ -1,0 +1,12 @@
+node_modules/
+dist/
+out/
+data/
+.grill-data/
+.sdk/
+.android-repository.xml
+.build-*/
+.env
+*.keystore
+*.jks
+*.sqlite*
